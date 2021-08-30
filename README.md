@@ -2,6 +2,7 @@
 
 - 🔭 Hoje trabalhando com Desenvolvimento Web
 - 🌱 Estudando ReactJs
+- 👩‍🎓 Estudante de Computação no Instituto Federal da Bahia
 - 📫 Contate-me no emial: elisa_lissandra@outlook.com
 - 😄 Pronouns: ela/dela
 

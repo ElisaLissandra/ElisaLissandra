@@ -1,6 +1,5 @@
 ## Olá! Eu sou a Elisa Lissandra
 
-- 🔭 Hoje trabalhando com Desenvolvimento Web
 - 👩‍🎓 Estudante de ABI em Computação no Instituto Federal da Bahia
 - 📫 Contate-me no emial: elisa_lissandra@outlook.com
 - 😄 Pronouns: ela/dela

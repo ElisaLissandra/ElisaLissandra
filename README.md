@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Elisa Lissandra
 
 - 👩‍🎓 Estudante de ABI em Computação no Instituto Federal da Bahia
-- 📫 Contate-me no emial: elisa_lissandra@outlook.com
+- 📫 Entre em contato pelo email: elisa_lissandra@outlook.com 
 - 😄 Pronouns: ela/dela
 
 ##

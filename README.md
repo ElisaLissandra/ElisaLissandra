@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Elisa Lissandra
 
 - 👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 📫 Entre em contato pelo email: elisa_lissandra@outlook.com 
+- 📫 Entre em contato pelo email ou instagram: elisa_lissandra@outlook.com / https://www.instagram.com/elisa_lissandra/ 
 
 
 ##

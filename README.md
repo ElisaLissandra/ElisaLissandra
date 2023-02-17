@@ -2,7 +2,7 @@
 
 - 👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 📫 Entre em contato pelo email: elisa_lissandra@outlook.com 
-- 😄 Pronouns: ela/dela
+
 
 ##
 

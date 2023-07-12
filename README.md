@@ -24,6 +24,17 @@
   <link align="center" alt="Elisa-LARAVEL" height="30" width="40" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
  <img align="center" alt="Elisa-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+
+<img align="center" alt="Elisa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+ <img align="center" alt="Elisa-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+
+ <img align="center" alt="Elisa-Laravel" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+
+<img align="center" alt="Elisa-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
+      
+          
           
 </div>
  

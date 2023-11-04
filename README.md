@@ -31,10 +31,8 @@
 
  <img align="center" alt="Elisa-Laravel" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 
-<img align="center" alt="Elisa-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          
-      
-          
+
+         
           
 </div>
  

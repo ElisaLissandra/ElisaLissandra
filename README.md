@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Elisa Moreira
 
 - 👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 📫 Entre em contato pelo email: elisamoreira295@gmail.com 
+- 📫 Entre em contato pelo email: elisalissandra023@gmail.com
 
 
 ##

@@ -15,32 +15,43 @@
   ##
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Elisa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="Elisa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="Elisa-BOOSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Elisa-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Elisa-PHP" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
- <!-- Icone MySQL-->  
-  <link  align="center" alt="Elisa-Mysql" height="30" width="40" rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <link align="center" alt="Elisa-LARAVEL" height="30" width="40" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
+ <!-- Icone HTML-->
+ <img align="center" alt="Elisa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+ 
+ <!-- Icone Css -->
+ <img align="center" alt="Elisa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+ 
+ <!-- Icone Bootstrap-->
+ <img align="center" alt="Elisa-BOOSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+ 
+ <!-- Icone JavaScript-->
+ <img align="center" alt="Elisa-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+ 
+ <!-- Icone PHP-->
+ <img align="center" alt="Elisa-PHP" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+ 
+ <!-- Icone MySQL-->  
+ <img  align="center" alt="Elisa-MySQL" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+ 
+ <!-- Icone Debian-->
  <img align="center" alt="Elisa-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 
-<img align="center" alt="Elisa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <!-- Icone Git-->
+ <img align="center" alt="Elisa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
- <img align="center" alt="Elisa-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+<!-- Icone Jquery-->
+<img align="center" alt="Elisa-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
 
- <img align="center" alt="Elisa-Laravel" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-
-
+ <!-- Icone Laravel -->
+ <img  lign="center" alt="Elisa-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
          
-          
 </div>
  
   ##
  
  <div> 
-  <a href = "mailto:elisa_lissandra@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:elisalissandra023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elisa-lissandra-moreira-845013214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 

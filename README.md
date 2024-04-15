@@ -44,7 +44,8 @@
 <img align="center" alt="Elisa-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
 
  <!-- Icone Laravel -->
- <img  lign="center" alt="Elisa-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
+ <img  lign="center" alt="Elisa-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+          
          
 </div>
  

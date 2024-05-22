@@ -1,64 +1,47 @@
-## Olá! Eu sou a Elisa Moreira
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9d4edd&height=120&section=header"/>
 
-- 👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 📫 Entre em contato pelo email: elisalissandra023@gmail.com
-
-
-##
-
- <div>
-  <a href="https://github.com/ElisaLissandra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElisaLissandra&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaLissandra&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-  
-  ##
-  
-<div style="display: inline_block"><br>
-
- <!-- Icone HTML-->
- <img align="center" alt="Elisa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
- 
- <!-- Icone Css -->
- <img align="center" alt="Elisa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
- 
- <!-- Icone Bootstrap-->
- <img align="center" alt="Elisa-BOOSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
- 
- <!-- Icone JavaScript-->
- <img align="center" alt="Elisa-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
- 
- <!-- Icone PHP-->
- <img align="center" alt="Elisa-PHP" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
- 
- <!-- Icone MySQL-->  
- <img  align="center" alt="Elisa-MySQL" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
- 
- <!-- Icone Debian-->
- <img align="center" alt="Elisa-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
-
- <!-- Icone Git-->
- <img align="center" alt="Elisa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<!-- Icone Jquery-->
-<img align="center" alt="Elisa-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-
- <!-- Icone Laravel -->
- <img  lign="center" alt="Elisa-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-          
-         
-</div>
- 
-  ##
- 
- <div> 
-  <a href = "mailto:elisalissandra023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/elisa-lissandra-moreira-845013214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<!-- Apresentação -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9d4edd&size=35&center=true&vCenter=true&width=1000&lines=Hello!;+My+name+is+Elisa+Moreira;I'm+21+years;I+study;analysis+and+systems+development;Welcome!+:%29)](https://git.io/typing-svg)
 
 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ElisaLissandra&show_icons=true&count_private=true&hide_border=true&title_color=9d4edd&icon_color=9d4edd&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaLissandra&layout=compact&hide_border=true&title_color=9d4edd&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-  
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ElisaLissandra&bg_color=0d1117&color=c9d1d9&line=9d4edd&point=9d4edd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+&nbsp;
+&nbsp;
+
+## My Skills
+
+#### Main Stack:
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+
+#### Data Base:
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+#### Tools:
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+
+#### Other Knowledge:
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)&nbsp;
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)&nbsp;
+
+## Contacts:
+<a href = "mailto:elisalissandra023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/elisa-moreira-845013214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

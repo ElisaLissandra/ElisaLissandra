@@ -55,7 +55,7 @@
 
 ## Let's Connect!
 
-<a href="mailto:elisamoreira526@gmail.com" target="_blank">
+<a href="mailto:elisalissandra023@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/elisa-moreira-845013214/" target="_blank">
